@@ -1,2 +1,0 @@
-# Pizza-Wheel
-Pizza Wheel
